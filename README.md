@@ -2,7 +2,6 @@
 # Python Project Template
 
 A low dependency and really simple to start project template for Python Projects.
-
 ### HOW TO USE THIS TEMPLATE
 
 1. Wait until the first run of CI finishes  
