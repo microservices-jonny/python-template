@@ -6,7 +6,7 @@ jobs:
   codeowners-scan:
     runs-on: ubuntu-latest
     steps:
-      - uses: Addepar/codeowners-scan/.github/actions/codeowners-scan@v2.3
+      - uses: microservices-jonny/codeowners-scan/.github/actions/codeowners-scan@v2.3
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           paths_to_ignore: |
