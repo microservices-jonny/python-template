@@ -1,7 +1,7 @@
 
 # Python Project Template
 
-A low dependency and really simple to start project template for Python Projects.
+A low dependency and really simple to start project template for Python Projects. 
 
 ### HOW TO USE THIS TEMPLATE
 
