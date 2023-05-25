@@ -5,8 +5,6 @@ A low dependency and really simple to start project template for Python Projects
 
 ### HOW TO USE THIS TEMPLATE
 
-> **DO NOT FORK** this is meant to be used from **[Use this template](https://github.com/rochacbruno/python-project-template/generate)** feature.
-
 1. Wait until the first run of CI finishes  
    (Github Actions will process the template and commit to your new repo)
 2. If you want [codecov](https://about.codecov.io/sign-up/) Reports and Automatic Release to [PyPI](https://pypi.org)  
