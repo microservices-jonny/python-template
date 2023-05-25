@@ -34,6 +34,7 @@ A low dependency and really simple to start project template for Python Projects
 - 🔄 Continuous integration using [Github Actions](.github/workflows/) with jobs to lint, test and release your project on Linux, Mac and Windows environments.
 
 ---
+> **NOTE**: Feel free to delete above lines
 # python_template
 
 [![codecov](https://codecov.io/gh/microservices-jonny/python-template/branch/main/graph/badge.svg?token=python-template_token_here)](https://codecov.io/gh/microservices-jonny/python-template)
